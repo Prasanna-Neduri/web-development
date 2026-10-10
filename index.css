@@ -1,0 +1,22 @@
+body{
+    margin:0;
+}
+
+.nav-bar{
+    border-color:black;
+    border-width:2px;
+    border-style:solid;
+    background-color:pink;
+    padding:15px;
+    text-align:center;
+}
+.nav-bar a{
+    padding:10px;
+    text-decoration:none;
+    color:black;
+}
+.nav-bar a:hover{
+    color:red;
+    background-color:yellow;
+    text-decoration:underline;
+}
